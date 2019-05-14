@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MyNetSale",
-    "slug": "MyNetSale",
+    "slug": "MyNetSaleApp",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
